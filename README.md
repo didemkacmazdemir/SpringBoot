@@ -1,2 +1,2 @@
 # SpringBoot
-Spring Boot is a Spring framework module which provides RAD (Rapid Application Development) feature to the Spring framework. 
+Spring Boot reduces the need to write a lot of configuration and boilerplate code.
