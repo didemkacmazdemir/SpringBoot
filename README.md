@@ -50,6 +50,8 @@ public class Customer {
     }
 }
 
+@JsonIgnore
+The Jackson annotation @JsonIgnore is used to tell Jackson to ignore a certain property (field) of a Java objec
 
 
 
